@@ -1,0 +1,8 @@
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\obj\Debug\ResolveAssemblyReference.cache
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\obj\Debug\NamesOfMonths.NamesOfMonths.resources
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\obj\Debug\NamesOfMonths.Properties.Resources.resources
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\obj\Debug\NamesOfMonths.csproj.GenerateResource.Cache
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\bin\Debug\NamesOfMonths.exe
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\bin\Debug\NamesOfMonths.pdb
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\obj\Debug\NamesOfMonths.exe
+E:\ChildrenGamesForYou\NamesOfMonths\NamesOfMonths\NamesOfMonths\obj\Debug\NamesOfMonths.pdb
